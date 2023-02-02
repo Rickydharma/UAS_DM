@@ -3,3 +3,4 @@ pandas==1.4.4
 matplotlib==3.6.2
 numpy==1.23.5
 lxml==4.9.1
+joblib==1.1.1
